@@ -11,7 +11,7 @@
 
 This is an intermediary payment app that was commissioned to be produced by a previous company.
 
-### <a href="https://paysm.net">Paysm Payment App</a>
+### <a href="https://github.com/tsukemandev/react-payapp">Front-end</a>
 
 <br>
 
